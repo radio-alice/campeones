@@ -43,6 +43,7 @@ h1 {
   margin: 0;
   text-align: center;
   background-color: #c3c5ff;
+  line-height: normal;
 }
 main {
   display: flex;
@@ -54,19 +55,30 @@ article {
 }
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  color: #0A000A;
+  font-size: 17px;
+  line-height: 25px;
+  color: #0d0e26;
   background-color: #e0e1fb;
 }
 .text {
   padding-right: 9%;
   padding-bottom: 9%;
-  padding-left: 3%;
+  padding-left: 8%;
   padding-top: 3%;
 }
 #left {
   background-clip: padding-box;
   background-color: #c3c5ff;
   flex: 4.5;
+  font-size: 15.5px;
+  text-align: right;
+}
+img {
+    max-width: 90%;
+    max-height: 100%;
+}
+#left br {
+  line-height: 55px;
 }
 #right {
   flex: 11;
@@ -84,11 +96,11 @@ body {
 .text a {
   color: #FF23DA;
 }
-p::selection, em::selection, a::selection {
-  background: #F9E613; /* WebKit/Blink Browsers */
+p::selection, em::selection, a::selection, code::selection {
+  background: #feed37; /* WebKit/Blink Browsers */
 }
-p::-moz-selection, em::-moz-selection, a::-moz-selection {
-  background: #F9E613; /* Gecko Browsers */
+p::-moz-selection, em::-moz-selection, a::-moz-selection, code::-moz-selection {
+  background: #feed37; /* Gecko Browsers */
 }
 footer {
   /* position: absolute; */

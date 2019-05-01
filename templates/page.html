@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/campeones/style.css">
+    <link rel="stylesheet" href="style.css">
     <script>
       window.hypothesisConfig = function () {
         return {
@@ -14,7 +14,7 @@
             ctaBackgroundColor: '#FF23DA',
             accentColor: '#FF23DA',
             ctaTextColor: '#0A000A',
-            selectionFontFamily: 'helvetica, arial, sans serif'
+            selectionFontFamily: '"Benton Sans", "Helvetica Neue", helvetica, arial, sans serif'
           }
         }
       }
@@ -22,31 +22,34 @@
     <script src="https://hypothes.is/embed.js" async></script>
   </head>
   <body>
+    {% set_global page_split = page.content | split(pat="======") %}
+    {% set_global content = page_split.0 %}
+    {% set_global references = page_split.1 %}
     <main>
       <article class="flex-grid">
         <section class="col" id="left">
           <nav>
-            <a href="/campeones">
+            <a href="">
               <h2>Start</h2>
             </a>
           </nav>
-          <section class="text">my notes/references here</section>
+          <section class="text">{{ references | safe }}</section>
         </section>
         <section class="col" id="right">
           <h1>Campeones de la WWW</h1>
           <h2>{{ page.title }}</h2>
-          <section class="text">{{ page.content | safe }}</section>
+          <section class="text">{{ content | safe }}</section>
         </section>
       </article>
       <footer class="flex-grid">
         <nav>
-          <a href="/campeones/{{ page.extra.previous }}">
+          <a href="/{{ page.extra.previous }}">
             <h2>{{ page.extra.ptitle }}</h2>
           </a>
         </nav>
         <div class="divider"></div>
         <nav>
-          <a href="/campeones/{{ page.extra.next }}">
+          <a href="/{{ page.extra.next }}">
             <h2>{{page.extra.ntitle}}</h2>
           </a>
         </nav>
