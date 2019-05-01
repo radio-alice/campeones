@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "shttps://shrmn.toys/campeones"
+base_url = "https://shrmn.toys/campeones/"
 
 compile_sass = false
 

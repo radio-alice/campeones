@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: shttps://shrmn.toys/campeones/sitemap.xml
+Sitemap: https://shrmn.toys/campeones/sitemap.xml
