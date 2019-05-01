@@ -1,0 +1,10 @@
+# The URL the site will be built for
+base_url = "shttps://shrmn.toys/campeones"
+
+compile_sass = false
+
+highlight_code = true
+
+generate_rss = false
+
+build_search_index = true

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/style.css">
+<!--     <script>
+      window.hypothesisConfig = function () {
+        return {
+          branding: {
+            appBackgroundColor: '#F9E613',
+            ctaBackgroundColor: '#FF23DA',
+            accentColor: '#FF23DA',
+            ctaTextColor: '#0A000A',
+            selectionFontFamily: 'helvetica, arial, sans serif'
+          }
+        }
+      }
+    </script>
+    <script src="https://hypothes.is/embed.js" async></script> -->
+  </head>
+  <body>
+    <main>
+      <article class="flex-grid">
+        <section class="col" id="left">
+          <nav>
+            <a href="/">
+              <h2>Start</h2>
+            </a>
+          </nav>
+          <section class="text">my notes/references here</section>
+        </section>
+        <section class="col" id="right">
+          <h1>Campeones de la WWW</h1>
+          <h2>{{ page.title }}</h2>
+          <section class="text">{{ page.content | safe }}</section>
+        </section>
+      </article>
+      <footer class="flex-grid">
+        <nav>
+          <a href="/{{ page.extra.previous }}">
+            <h2>{{ page.extra.ptitle }}</h2>
+          </a>
+        </nav>
+        <div class="divider"></div>
+        <nav>
+          <a href="/{{ page.extra.next }}">
+            <h2>{{page.extra.ntitle}}</h2>
+          </a>
+        </nav>
+      </footer>
+    </main>
+  </body>
+</html>
