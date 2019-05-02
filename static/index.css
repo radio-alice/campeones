@@ -1,0 +1,80 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh
+}
+.flex-grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+nav {
+  position: relative;
+  text-align: center;
+  justify-content: center;
+  background-color: #2128FF;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  flex: 1;
+  height: 61px;
+  min-width: 33%;
+}
+nav h2 {
+  font-size: 27px;
+  font-style: italic;
+  text-decoration: underline;
+  color: #e0e1fb;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 30%;
+  margin: auto;
+}
+h1 {
+  font-style: italic;
+  font-size: 50px;
+  color: #2128FF;
+  text-shadow: 3px 3px #FF23DA;
+  text-decoration: underline;
+  padding: 30px;
+  margin: 0;
+  text-align: center;
+  line-height: normal;
+}
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  font-size: 17px;
+  line-height: 25px;
+  color: #0d0e26;
+  background-color: #e0e1fb;
+}
+.images {
+  margin: 0 auto;
+  text-align: center;
+}
+img {
+  max-width: 250px;
+}
+.images h2, #right h2 {
+  font-size: 30px;
+  color: #2128FF;
+  text-shadow: 2px 2px #c3c5ff;
+  text-decoration: underline;
+  text-align: center;
+  margin: 0;
+  padding-bottom: 20px;
+}
+.divider {
+  flex: 0;
+  padding: 3px;
+  background-color: #c3c5ff;
+}
+#right {
+  background-color: #c3c5ff;
+  padding: 3%;
+}

@@ -2,6 +2,7 @@
 title="Methods + Theoretical Background"
 template = "page.html"
 in_search_index = true
+weight = 3
 
 [extra]
 "previous" = "background"

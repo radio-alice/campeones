@@ -2,6 +2,7 @@
 title="Net.Art Certification Office"
 template = "page.html"
 in_search_index = true
+weight = 5
 
 [extra]
 "previous" = "error2"

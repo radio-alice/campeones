@@ -2,7 +2,7 @@
 title="Campeones de la WWW"
 template = "page.html"
 in_search_index = true
-
+weight = 6
 
 [extra]
 "previous" = "naco"

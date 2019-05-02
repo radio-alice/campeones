@@ -2,6 +2,7 @@
 title="Background + Materials"
 template = "page.html"
 in_search_index = true
+weight = 2
 
 [extra]
 "previous" = "intro"

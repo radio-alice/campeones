@@ -2,6 +2,7 @@
 title="error#2"
 template = "page.html"
 in_search_index = true
+weight = 4
 
 [extra]
 "previous" = "methods"

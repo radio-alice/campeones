@@ -2,6 +2,7 @@
 title="Conclusion"
 template = "page.html"
 in_search_index = true
+weight = 7
 
 [extra]
 "previous" = "campeones"

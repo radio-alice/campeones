@@ -2,6 +2,7 @@
 title = "Introduction"
 template = "page.html"
 in_search_index = true
+weight = 1
 
 [extra]
 "previous" = ""
