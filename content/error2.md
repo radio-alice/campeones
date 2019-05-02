@@ -15,7 +15,7 @@ weight = 4
 > *-* Ranciere *Distribution of the Sensible*, p. 107
 
 <br>
-Near the bottom of Brian Mackern's (extensive) [homepage-portfolio-timeline](http://netart.org.uy), one of the earliest branches reads "[ error #2 ]". Following the associated link reveals one of the more biting, bizarre pieces in Brian's collection. <em>error#2</em>, created sometime in the late nineteen-nineties (based on it's position on the page),demonstrates a "glocal" politics conveyed through a playful, chaotic work.
+Near the bottom of Brian Mackern's (extensive) <a href="http://netart.org.uy">homepage-portfolio-timeline</a>, one of the earliest branches reads "[ error #2 ]". Following the associated link reveals one of the more biting, bizarre pieces in Brian's collection. <em>error#2</em>, created sometime in the late nineteen-nineties (based on it's position on the page),demonstrates a "glocal" politics conveyed through a playful, chaotic work.
 
 From his home in Montevideo, Brian Mackern was a prominent member of the *net.artista* community. Responsible for the [now-canonical](http://nytimes.com/2019/01/23/arts/design/internet-art-new-museum-rhizome.html) [*netart_latino database*](http://netart.org.uy/latino/index.html), Mackern fought tirelessly for global recognition of Latin American net.art and was one of the chief organizers of its online communities. He consistently oriented his work towards rectifying the continued exclusion of his community. Much of his work pointed out that the promised globally equalization accompanying the rise of the internet never came to be. His focus on the politics of his work *in* his work makes him a useful case for examining how neoliberal ideology (both economic and cultural) was refuted in Latin American net.art.
 

@@ -96,10 +96,10 @@ img {
 .text a {
   color: #FF23DA;
 }
-p::selection, em::selection, a::selection, code::selection {
+body::selection {
   background: #feed37; /* WebKit/Blink Browsers */
 }
-p::-moz-selection, em::-moz-selection, a::-moz-selection, code::-moz-selection {
+body::-moz-selection {
   background: #feed37; /* Gecko Browsers */
 }
 footer {
