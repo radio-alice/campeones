@@ -3,12 +3,6 @@ title="Conclusion"
 template = "page.html"
 in_search_index = true
 weight = 7
-
-[extra]
-"previous" = "campeones"
-"next" = ""
-"ptitle" = "Campeones de la WWW"
-"ntitle" = "Start"
 +++
 Were the *net.artistas* successful? Certainly they did not single-handedly turn the tide against neoliberalism and its worship of market rationale. Rather, *net.artistas*' use of playfulness to undermine neoliberal rationality and net.art's Western-centric institutionalization is instructive for how a future politics might do the same. We should not evaluate these cases on their measurable impacts (as one would evaluate a political organization), but on what effects were produced by the interactions between people and the artwork. Though the surface-level content between cases varies, they are all marked by a procedural rhetoric that manifests in increasingly playful interactions. This undermines neoliberalism not by directly criticizing its effects, but by questioning its underlying assumptions. Under neoliberalism, market rationality is the only thinkable, sayable form of reason. Irrational playfulness allows these cases to build a rhetoric that is unintelligible to market rationale, offering an alternative mode of interpreting the world. Because play exists only for its own sake, it *pre-supposes* a form of value completely independent from the marketplace. Even where these works fall closer to playfulness than pure play, they retain the commitment to a non-rationalized, non-marketed mode of being. Without wielding an irrational rhetoric, like that of play, these works would not have been able to intervene in the neoliberal distribution of sensible forms– market rationale would remain unchallenged, the only thinkable worldview.
 

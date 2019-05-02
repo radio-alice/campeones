@@ -3,12 +3,6 @@ title = "Introduction"
 template = "page.html"
 in_search_index = true
 weight = 1
-
-[extra]
-"previous" = ""
-"next" = "background"
-"ptitle" = "Start"
-"ntitle" = "Background + Materials"
 +++
 This project examines Latin American net.art and its use of playfulness, arguing that at the intersection of Latin America, the art world, and the early internet, playful irrationality undermined the rational-choice, everyone-as-market-actors ideology that underpins neoliberalism. Net.art was a turn-of-the-millennium art movement that took the internet as its primary subject matter and often as its medium. In Latin America, *net.artistas* grappled with topics ranging from neoliberalism and globalization to developmentalism and *mestizaje*. While Taylor and Pitman argue that Latin American net.art represents a 'postregional practice', they do not address the radical playfulness of the art or its political significance. The quality of playfulness is not unique to Latin American net.art, but in that context it took on new meaning, becoming a mode of expression for their 'postregional' politics. For now, I'll define playfulness as Miguel Sicart does briefly: an attitude that "projects some of the characteristics of play into the world", that is a general disregard for the rules of spaces not intended for play. In the cases examined here, playfulness manifested as a twisted irrationality that appropriated and disrupted the spaces in which it operated. Disregard for norms of the internet and of rationality challenged the rational-choice paradigm that underlies neoliberal ideology. Because play is always somewhat autotelic (i.e. exists for its own sake), playfulness contains an implicit critique of market determination of value. Play never exists *only* for the market, and its use in these works demands that the viewer recognize forms of reason, value decoupled from the market and market rationality.
 

@@ -3,12 +3,6 @@ title="Net.Art Certification Office"
 template = "page.html"
 in_search_index = true
 weight = 5
-
-[extra]
-"previous" = "error2"
-"next" = "campeones"
-"ptitle" = "Error#2"
-"ntitle" = "Campeones de la WWW"
 +++
 > *Playfulness is the carnivalesque domain of the appropriation, the triumph of the subjective laughter, of the disruptive irony over rules and commands.*
 

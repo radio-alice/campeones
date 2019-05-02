@@ -6,12 +6,7 @@
         </url>
     
         <url>
-            <loc>https://shrmn.toys/campeones/naco/</loc>
-            
-        </url>
-    
-        <url>
-            <loc>https://shrmn.toys/campeones/intro/</loc>
+            <loc>https://shrmn.toys/campeones/campeones/</loc>
             
         </url>
     
@@ -21,7 +16,12 @@
         </url>
     
         <url>
-            <loc>https://shrmn.toys/campeones/campeones/</loc>
+            <loc>https://shrmn.toys/campeones/intro/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://shrmn.toys/campeones/naco/</loc>
             
         </url>
     

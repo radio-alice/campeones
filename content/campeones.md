@@ -3,12 +3,6 @@ title="Campeones de la WWW"
 template = "page.html"
 in_search_index = true
 weight = 6
-
-[extra]
-"previous" = "naco"
-"next" = "conclusion"
-"ptitle" = "Net.Art Certification Office"
-"ntitle" = "Conclusion"
 +++
 > *Playfulness is a carnivalesque attack on the seriousness of computers*
 

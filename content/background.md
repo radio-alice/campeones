@@ -3,12 +3,6 @@ title="Background + Materials"
 template = "page.html"
 in_search_index = true
 weight = 2
-
-[extra]
-"previous" = "intro"
-"next" = "methods"
-"ptitle" = "Introduction"
-"ntitle" = "Methods + Theoretical Background"
 +++
 **Net.Art:**
 
@@ -36,11 +30,11 @@ Neoliberalism seeks to subsume all political life and human activity into market
 
 The 'closed' neoliberal political universe caused significant damage across Latin America (and the world). Brown notes that it was marked by growing inequality, increased commercialization of social spheres that had previously been held separate from the market, increased domination of the state by capital interests, and economic havoc wrought by wilder fluctuations of a newly-deregulated market. In Latin America, neoliberalism was often instituted by harsh military dictatorships; Chile became one of the world's first neoliberal countries after Pinochet's coup (aided and abetted by the University of Chicago, it must be noted). Another consequence was that national economic policies were increasingly dictated by foreign capital, rather than by elected officials. Debts owed by Latin American countries became tools by which they were coerced into implementing the neoliberal package of deregulations. Thus, with the state no longer in control of wealth distribution in the newly deregulated market, opposition to income inequality became an economic, market-oriented battle instead of a political one– the degradation of the individual from political actor to rational market actor was complete.
 
-This all-consuming rationality, and its inhumane consequences represent a crucial frame of reference for the cases I study. Because neoliberal rationality was so hegemonic, these works' embrace of playful irrationality as a mode of politics disrupts Ranciere's 'distribution of sensible forms'. That is, through irrationality, they challenge the omnipresence of neoliberal worldview and force us, the viewers, to abandon it. The procedural rhetoric of these works refuses rational engagement, demanding its audience abandons the neoliberal in favor of the playful.
+This all-consuming rationality, and its inhumane consequences represent a crucial frame of reference for the cases I study. Because neoliberal rationality was so hegemonic, these works' embrace of playful irrationality as a mode of politics disrupts Ranciere's 'distribution of sensible forms' (discussed further in 'Methods' section). That is, through irrationality, they challenge the omnipresence of neoliberal worldview and demand interactions from viewers that transcend market rationality. The procedural rhetoric of these works refuses rational engagement, demanding its audience abandons the neoliberal in favor of the playful.
 
 **Materials:**
 
-The primary cases for this study are three net.artworks from early two-thousands found through Brian Mackern's [net.art latino database](http://netart.org.uy/latino/index.html) or email archives. These [archives](https://nettime.org/Lists-Archives/) of the nettime-lat listserv, to which I refer constantly throughout the thesis, were a crucial source. This database of a few thousand emails from 2000-2004 represents the largest archive of the communications of the dispersed *net.artista* community. Combing through the emails provided me an understanding of how the community thought about their work and how this appeared in the art.
+The primary cases for this study are three net.artworks from early two-thousands found through Brian Mackern's [net.art latino database](http://netart.org.uy/latino/index.html) or the nettime-lat email archives. [This database](https://nettime.org/Lists-Archives/) of a few thousand emails from 2000-2004 represents the largest archive of the communications of the dispersed *net.artista* community. They represent a crucial source, and I refer to them constantly throughout this thesis. Combing through the emails gave me nearly un-mediated insight into how the community thought about their work and how this appeared in the art.
 
 ======
 
