@@ -27,3 +27,4 @@ sort_by = "weight"
 ![](index/image26.png)
 ![](index/image22.jpg)\
 <h2>Welcome to my B.A. Thesis<h2>
+<h2>for all the references and stuff to line up, go full-screen<h2>
