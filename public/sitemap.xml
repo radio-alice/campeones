@@ -1,17 +1,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https://shrmn.toys/campeones/</loc>
-            
-        </url>
-    
-        <url>
             <loc>https://shrmn.toys/campeones/methods/</loc>
             
         </url>
     
         <url>
-            <loc>https://shrmn.toys/campeones/conclusion/</loc>
+            <loc>https://shrmn.toys/campeones/</loc>
             
         </url>
     
@@ -21,7 +16,7 @@
         </url>
     
         <url>
-            <loc>https://shrmn.toys/campeones/campeones/</loc>
+            <loc>https://shrmn.toys/campeones/conclusion/</loc>
             
         </url>
     
@@ -31,12 +26,17 @@
         </url>
     
         <url>
-            <loc>https://shrmn.toys/campeones/background/</loc>
+            <loc>https://shrmn.toys/campeones/campeones/</loc>
             
         </url>
     
         <url>
             <loc>https://shrmn.toys/campeones/error2/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://shrmn.toys/campeones/background/</loc>
             
         </url>
     
