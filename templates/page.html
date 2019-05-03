@@ -22,6 +22,14 @@
     <script src="https://hypothes.is/embed.js" async></script>
   </head>
   <body>
+    <script>
+      window.onload = function() {
+        let links = document.querySelectorAll('section.text a');
+        for (let i = 0; i < links.length; i++){
+          links[i].target = "_blank";
+        }
+      }
+    </script>
     {% set_global page_split = page.content | split(pat="======") %}
     {% set_global content = page_split.0 %}
     {% set_global references = page_split.1 %}
