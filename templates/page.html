@@ -45,7 +45,7 @@
       <article class="flex-grid">
         <section class="col" id="left">
           <nav>
-            <a href="{{ config.base_url }}">
+            <a href="/">
               <h2>Start</h2>
             </a>
           </nav>
@@ -60,13 +60,13 @@
       <footer class="flex-grid">
         {% if (page.lighter) %}
         <nav>
-          <a href="{{ page.lighter.permalink }}">
+          <a href="https://{{ page.lighter.permalink }}">
             <h2>{{ page.lighter.title }}</h2>
           </a>
         </nav>
         {% else %}
         <nav>
-          <a href="{{ config.base_url }}">
+          <a href="/">
             <h2>Start</h2>
           </a>
         </nav>
@@ -74,13 +74,13 @@
         <div class="divider"></div>
         {% if (page.heavier) %}
         <nav>
-          <a href="{{ page.heavier.permalink }}">
+          <a href="https://{{ page.heavier.permalink }}">
             <h2>{{ page.heavier.title }}</h2>
           </a>
         </nav>
         {% else %}
         <nav>
-          <a href="{{ config.base_url }}">
+          <a href="/">
             <h2>Start</h2>
           </a>
         </nav>
