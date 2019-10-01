@@ -2,17 +2,38 @@
 <html lang="en">
   <head>
     <title>Campeones de la WWW</title>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ config.base_url }}/index.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/campeones/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/campeones/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/campeones/favicon-16x16.png">
-    <link rel="manifest" href="/campeones/site.webmanifest">
-    <link rel="mask-icon" href="/campeones/safari-pinned-tab.svg" color="#5bbad5">
-    <link rel="shortcut icon" href="/campeones/favicon.ico">
-    <meta name="msapplication-config" content="/campeones/browserconfig.xml">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ config.base_url }}/index.css" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="{{ config.base_url }}/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="{{ config.base_url }}/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="{{ config.base_url }}/favicon-16x16.png"
+    />
+    <link rel="manifest" href="{{ config.base_url }}/site.webmanifest" />
+    <link
+      rel="mask-icon"
+      href="{{ config.base_url }}/safari-pinned-tab.svg"
+      color="#5bbad5"
+    />
+    <link rel="shortcut icon" href="{{ config.base_url }}/favicon.ico" />
+    <meta
+      name="msapplication-config"
+      content="{{ config.base_url }}/browserconfig.xml"
+    />
   </head>
   <body>
     <main>
@@ -23,16 +44,16 @@
       <footer class="flex-grid">
         <div class="divider"></div>
         {% for page in section.pages %}
-          <nav>
-            <a href="{{ page.permalink | safe}}">
-              <h2>{{ page.title }}</h2>
-            </a>
-          </nav>
-          <div class="divider"></div>
+        <nav>
+          <a href="{{ page.permalink | safe }}">
+            <h2>{{ page.title }}</h2>
+          </a>
+        </nav>
+        <div class="divider"></div>
         {% endfor %}
       </footer>
       <section class="images">
-        {{ section.content | safe}}
+        {{ section.content | safe }}
       </section>
     </main>
   </body>

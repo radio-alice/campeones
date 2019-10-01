@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://campeones.anemon.es/sitemap.xml
+Sitemap: campeones.anemon.es/sitemap.xml
